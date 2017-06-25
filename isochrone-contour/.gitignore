@@ -1,0 +1,9 @@
+venv
+grid_output/*.json
+raster/*
+!raster/.keep
+hexbin/*
+!hexbin/.keep
+data/*.geojson
+data/*.csv
+!data/chicago_grid.geojson
